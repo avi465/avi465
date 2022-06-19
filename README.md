@@ -57,4 +57,4 @@
 
 <hr>
 
-[![Avinash's github activity graph](https://activity-graph.herokuapp.com/graph?username=avi465&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Avinash's github activity graph](https://activity-graph.herokuapp.com/graph?username=avi465&theme=xcode&radiud=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
