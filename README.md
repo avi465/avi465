@@ -43,13 +43,13 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avi465&show_icons=true&locale=en&layout=compact" alt="avi465" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=avi465&show_icons=true&locale=en" alt="avi465" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=avi465&" alt="avi465" /></p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/buymeacofee/random"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacofee/random" /></a></p>
 
 <hr>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacofee/random"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacofee/random" /></a></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avi465&show_icons=true&locale=en&layout=compact" alt="avi465" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avi465&show_icons=true&locale=en" alt="avi465" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avi465&" alt="avi465" /></p>
