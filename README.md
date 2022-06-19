@@ -54,3 +54,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avi465&show_icons=true&locale=en" alt="avi465" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avi465&" alt="avi465" /></p>
+
+<hr>
+
+[![Avinash's github activity graph](https://activity-graph.herokuapp.com/graph?username=avi465&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
