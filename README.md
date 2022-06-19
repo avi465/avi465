@@ -49,9 +49,7 @@
 <br><br>
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avi465&show_icons=true&locale=en&layout=compact" alt="avi465" /></p>
-
-<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avi465&show_icons=true&locale=en&layout=compact" alt="avi465" /></p>&nbsp;
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=avi465&show_icons=true&locale=en" alt="avi465" /></p>
 
