@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Avinash karmjit</h1>
+<h1 align="left">Hello, I'm avinash</h1>
 <h3 align="left">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avi465&label=Profile%20views&color=0e75b6&style=flat" alt="avi465" /> </p>
