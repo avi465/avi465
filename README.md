@@ -1,5 +1,5 @@
 <h1 align="left">Avinash Karmjit</h1>
-<p align="left">I'm Adrian from India, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.</p>
+<p align="left">I'm Avinash from India, and I love frontend, backend, ai&ml and problem solving. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.</p>
 
 <hr>
 
