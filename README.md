@@ -34,5 +34,4 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avi465&" alt="avi465" />
 
-<h3 align="left">Contributions</h3>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=avi465&bg_color=161616&color=878787&line=20fe9e&point=0fff77&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
