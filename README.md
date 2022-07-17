@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avi465&column=4&margin-w=15&margin-h=15" alt="avi465" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/raushan07776289" target="blank"><img src="https://img.shields.io/twitter/follow/raushan07776289?logo=twitter&style=for-the-badge" alt="raushan07776289" /></a> </p>
-
 <hr>
 
 - 🔭 I’m currently working on [mdmate,shortly](https://github.com/avi465/shortly)
