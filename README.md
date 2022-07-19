@@ -36,4 +36,6 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=avi465&bg_color=161616&color=878787&line=20fe9e&point=0fff77&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<--
 ![Ashutosh's github activity graph](https://avi-contribution.herokuapp.com/graph?username=avi465&theme=gotham&radius=16)
+-->
