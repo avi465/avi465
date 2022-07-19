@@ -26,13 +26,20 @@
 <!-- <h3 align="left">Support:</h3>
 <a href="https://www.buymeacoffee.com/buymeacofee/random"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacofee/random" /></a>
  -->
-<h3 align="left">Most Used Languages</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avi465&show_icons=true&locale=en&layout=compact" alt="avi465" />
+ 
+ 
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=avi465&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=vue-dark"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=avi465&show_icons=true&locale=en&layout=compact&theme=vue-dark" />
+</td>
+</tr>
+</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avi465&theme=vue-dark" />
+</p>
 
-<h3 align="left">Stats</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=avi465&show_icons=true&locale=en" alt="avi465" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avi465&" alt="avi465" />
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=avi465&bg_color=161616&color=878787&line=20fe9e&point=0fff77&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
