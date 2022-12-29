@@ -33,10 +33,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=avi465&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=transparent"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avi465&show_icons=true&locale=en&layout=compact&theme=transparent" />
 
-## Activity Graph
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=avi465&bg_color=161616&color=878787&line=20fe9e&point=0fff77&area=true&hide_border=true)](https://github.com/avi465)
-
-<!--
-![Ashutosh's github activity graph](https://avi-contribution.herokuapp.com/graph?username=avi465&theme=gotham&radius=16)
--->
