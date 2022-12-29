@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avi465&column=4&margin-w=16&margin-h=16" alt="avi465" /></a> </p>
 
-- 🛠️ Working on [Shortly](https://github.com/avi465/shortly)
-
-- 🌱 learning [react js](https://reactjs.org/), [next js](https://nextjs.org/) etc
-
-- 📫 Contact [email](rk442537@gmail.com)
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/raushan07776289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raushan07776289" height="30" width="40" /></a>
@@ -26,7 +20,8 @@
 
  
 ## Stats
-
+<div display="flex">
 <img src="https://github-readme-stats.vercel.app/api?username=avi465&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=transparent"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avi465&show_icons=true&locale=en&layout=compact&theme=transparent" />
+</div>
 
