@@ -3,7 +3,7 @@
 
 
 <h1 align="left">Avinash Karmjit</h1>
-<h4 align="left">Hi, I'm Avinash Karmjit, a full-stack web developer and generative art enthusiast. I have a passion for creating elegant, user-friendly web applications and exploring the intersection of art and technology through generative art. My expertise includes webdev,java,python,c++,generative art and I am always looking to learn more and push my boundaries. When I'm not coding, you can find me tinkering with generative art algorithms, experimenting with new techniques, or sharing my work on codepen,open processing,github. Let's connect and create something amazing together!</h4>
+<h4 align="left">Hi, I'm Avinash Karmjit, a full-stack web developer and generative art enthusiast. I have a passion for creating elegant, user-friendly web applications and exploring the intersection of art and technology through generative art. I am always looking to learn more and push my boundaries. When I'm not coding, you can find me tinkering with generative art algorithms, experimenting with new techniques. Let's connect and create something amazing together!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avi465&label=Profile%20views&color=0e75b6&style=flat-square" alt="avi465" /> </p>
 
