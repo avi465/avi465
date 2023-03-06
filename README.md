@@ -5,9 +5,10 @@
 <h1 align="left">Avinash Karmjit</h1>
 <h4 align="left">Hi, I'm Avinash Karmjit, a full-stack web developer and generative art enthusiast. I have a passion for creating elegant, user-friendly web applications and exploring the intersection of art and technology through generative art. I am always looking to learn more and push my boundaries. When I'm not coding, you can find me tinkering with generative art algorithms, experimenting with new techniques. Let's connect and create something amazing together!</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avi465&label=Profile%20views&color=0e75b6&style=flat-square" alt="avi465" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=avi465&label=Profile%20views&color=0e75b6&style=flat-square" alt="avi465" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avi465&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="avi465" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avi465&column=4&margin-w=16&margin-h=16" alt="avi465" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avi465&column=-1&margin-w=4&margin-h=4" alt="avi465" /></a> </p>
 
 
 <!-- ![Metrics](https://metrics.lecoq.io/avi465?template=classic&isocalendar=1&languages=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.details=bytes-size&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=Asia%2FCalcutta) -->
