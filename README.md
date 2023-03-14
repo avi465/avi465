@@ -4,7 +4,7 @@
 
 
 <h1 align="left">Avinash Karmjit</h1>
-<h4 align="left">Hi, I'm Avinash Karmjit, a full-stack web developer and generative art enthusiast. I have a passion for creating elegant, user-friendly web applications and exploring the intersection of art and technology through generative art. I am always looking to learn more and push my boundaries. When I'm not coding, you can find me tinkering with generative art algorithms, experimenting with new techniques. Let's connect and create something amazing together!</h4>
+<h4 align="left">Hi, I'm Avinash Karmjit, a full-stack web developer and generative art enthusiast. I have a passion for creating elegant, user-friendly web applications and exploring the intersection of art and technology through generative art. When I'm not coding, you can find me tinkering with generative art algorithms, experimenting with new techniques</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avi465&column=-1&margin-w=4&margin-h=4" alt="avi465" /></a> </p>
 
