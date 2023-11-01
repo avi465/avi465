@@ -1,17 +1,16 @@
 <h1 align="left">Avinash Karmjit</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avi465&label=Profile%20views&color=0e75b6&style=flat-square" alt="avi465" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avi465&label=Profile%20views&color=000000&style=flat-square" alt="avi465" /> </p>
 
 **Languages I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=SQL)
 
 **Technologies i have worked with**
 
