@@ -1,6 +1,6 @@
 <h1 align="left">Avinash Karmjit</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avi465&label=Profile%20views&color=000000&style=flat-square" alt="avi465" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avi465&label=Profile%20views&color=000000&style=flat" alt="avi465" /> </p>
 
 **Languages I have used**
 
